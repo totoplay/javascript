@@ -27,3 +27,5 @@ result.add();
 result.add();
 console.log(result.n);
 result2.add();
+
+//4
